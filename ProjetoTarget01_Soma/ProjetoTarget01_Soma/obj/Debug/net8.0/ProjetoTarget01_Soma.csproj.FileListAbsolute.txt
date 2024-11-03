@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\bin\Debug\net8.0\ProjetoTarget01_Soma.exe
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\bin\Debug\net8.0\ProjetoTarget01_Soma.deps.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\bin\Debug\net8.0\ProjetoTarget01_Soma.runtimeconfig.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\bin\Debug\net8.0\ProjetoTarget01_Soma.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\bin\Debug\net8.0\ProjetoTarget01_Soma.pdb
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ProjetoTarget01_Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ProjetoTarget01_Soma.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ProjetoTarget01_Soma.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ProjetoTarget01_Soma.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ProjetoTarget01_Soma.sourcelink.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ProjetoTarget01_Soma.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\refint\ProjetoTarget01_Soma.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ProjetoTarget01_Soma.pdb
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ProjetoTarget01_Soma.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget01_Soma\ProjetoTarget01_Soma\obj\Debug\net8.0\ref\ProjetoTarget01_Soma.dll

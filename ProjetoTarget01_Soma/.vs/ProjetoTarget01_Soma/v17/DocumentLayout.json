@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\Nova pasta\\ProjetosTargetSistemas\\ProjetoTarget01_Soma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{027293AE-8924-42DB-BDF7-80690A446937}|ProjetoTarget01_Soma\\ProjetoTarget01_Soma.csproj|c:\\users\\lucas\\desktop\\nova pasta\\projetostargetsistemas\\projetotarget01_soma\\projetotarget01_soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027293AE-8924-42DB-BDF7-80690A446937}|ProjetoTarget01_Soma\\ProjetoTarget01_Soma.csproj|solutionrelative:projetotarget01_soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Nova pasta\\ProjetosTargetSistemas\\ProjetoTarget01_Soma\\ProjetoTarget01_Soma\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoTarget01_Soma\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Nova pasta\\ProjetosTargetSistemas\\ProjetoTarget01_Soma\\ProjetoTarget01_Soma\\Program.cs",
+              "RelativeToolTip": "ProjetoTarget01_Soma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:03:35.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

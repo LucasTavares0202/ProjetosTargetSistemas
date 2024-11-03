@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\bin\Debug\net8.0\ProjetoTarget05_Inverte.exe
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\bin\Debug\net8.0\ProjetoTarget05_Inverte.deps.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\bin\Debug\net8.0\ProjetoTarget05_Inverte.runtimeconfig.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\bin\Debug\net8.0\ProjetoTarget05_Inverte.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\bin\Debug\net8.0\ProjetoTarget05_Inverte.pdb
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ProjetoTarget05_Inverte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ProjetoTarget05_Inverte.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ProjetoTarget05_Inverte.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ProjetoTarget05_Inverte.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ProjetoTarget05_Inverte.sourcelink.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ProjetoTarget05_Inverte.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\refint\ProjetoTarget05_Inverte.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ProjetoTarget05_Inverte.pdb
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ProjetoTarget05_Inverte.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget05_Inverte\ProjetoTarget05_Inverte\obj\Debug\net8.0\ref\ProjetoTarget05_Inverte.dll

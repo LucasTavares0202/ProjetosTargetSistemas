@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\bin\Debug\net8.0\ProjetoTarget04_Percentual.exe
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\bin\Debug\net8.0\ProjetoTarget04_Percentual.deps.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\bin\Debug\net8.0\ProjetoTarget04_Percentual.runtimeconfig.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\bin\Debug\net8.0\ProjetoTarget04_Percentual.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\bin\Debug\net8.0\ProjetoTarget04_Percentual.pdb
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ProjetoTarget04_Percentual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ProjetoTarget04_Percentual.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ProjetoTarget04_Percentual.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ProjetoTarget04_Percentual.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ProjetoTarget04_Percentual.sourcelink.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ProjetoTarget04_Percentual.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\refint\ProjetoTarget04_Percentual.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ProjetoTarget04_Percentual.pdb
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ProjetoTarget04_Percentual.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget04_Percentual\ProjetoTarget04_Percentual\obj\Debug\net8.0\ref\ProjetoTarget04_Percentual.dll

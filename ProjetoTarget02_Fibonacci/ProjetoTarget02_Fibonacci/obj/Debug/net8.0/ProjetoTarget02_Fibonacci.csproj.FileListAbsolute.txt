@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\bin\Debug\net8.0\ProjetoTarget02_Fibonacci.exe
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\bin\Debug\net8.0\ProjetoTarget02_Fibonacci.deps.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\bin\Debug\net8.0\ProjetoTarget02_Fibonacci.runtimeconfig.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\bin\Debug\net8.0\ProjetoTarget02_Fibonacci.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\bin\Debug\net8.0\ProjetoTarget02_Fibonacci.pdb
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ProjetoTarget02_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ProjetoTarget02_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ProjetoTarget02_Fibonacci.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ProjetoTarget02_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ProjetoTarget02_Fibonacci.sourcelink.json
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ProjetoTarget02_Fibonacci.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\refint\ProjetoTarget02_Fibonacci.dll
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ProjetoTarget02_Fibonacci.pdb
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ProjetoTarget02_Fibonacci.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Nova pasta\ProjetosTargetSistemas\ProjetoTarget02_Fibonacci\ProjetoTarget02_Fibonacci\obj\Debug\net8.0\ref\ProjetoTarget02_Fibonacci.dll
